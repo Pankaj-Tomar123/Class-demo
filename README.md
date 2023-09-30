@@ -1,2 +1,3 @@
 # Class-demo
-This is my first repository
+This Is My First Git Repository
+Author - Pankaj Tomar
